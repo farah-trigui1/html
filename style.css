@@ -1,0 +1,37 @@
+*{
+background-color: beige;
+font-family: 'roboto', sans-serif;
+}
+li{
+    color: brown;
+    display:inline;
+
+}
+#about{
+    text-align: center;
+    font-size: 24px;
+    color: rgb(226, 17, 17);
+}
+#work{
+    text-align: center;
+    color: rgb(227, 83, 83);
+    font-size: 20px;
+}
+#contact{
+    font-size: small;
+    padding-right: 65%;
+    display: flex;
+}
+p1{
+    color:black;
+    font-size:25px;
+    text-align:center;
+}
+#resume{
+    padding-left: 550px;
+}
+p2{
+    font-size: 30px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.982);
+}
